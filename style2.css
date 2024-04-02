@@ -1,5 +1,5 @@
 body{
-    background-color: black;
+    background-color: rgb(0, 0, 0);
     padding-right:200px;
     padding-left:200px;
 }
@@ -22,4 +22,10 @@ p{
 a{
     color: white;
     font-family:roboto,sans-serif;
+    padding-right:200px;
+    padding-left:225px;
+}
+span{
+    padding-right:200px;
+    padding-left: 225px;
 }
