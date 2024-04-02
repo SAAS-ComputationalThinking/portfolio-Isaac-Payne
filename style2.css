@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(0, 0, 0);
+    padding-right:200px;
+    padding-left:200px;
+}
+h1{
+    color: white;
+    font-family:roboto,sans-serif;
+    text-align: center;
+    text-shadow: 10px;
+}
+h2{
+    color: white;
+    font-family:roboto,sans-serif;
+    text-align: center;
+}
+p{
+    color: white;
+    font-family:roboto,sans-serif;
+    text-align: center;
+}
+a{
+    color: white;
+    font-family:roboto,sans-serif;
+    padding-right:200px;
+    padding-left:225px;
+}
+span{
+    padding-right:200px;
+    padding-left: 225px;
+}
